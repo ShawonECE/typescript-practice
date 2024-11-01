@@ -28,6 +28,3 @@ const luckyNumbers = (matrix) => {
     }
     return lucky;
 };
-
-const matrix = [[7,8],[1,2]];
-console.log(luckyNumbers(matrix));
